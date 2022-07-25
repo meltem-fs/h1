@@ -5,9 +5,72 @@ body{
 }
 
 .container{
-    border: 2px solid red;
     width: 80%;
     margin: auto;
-    background-color: rgb(73, 70, 70);
+    background-color: rgb(50, 48, 48);
     border-radius: 20px;
+}
+
+.heading{
+    font-family: 'Lobster', cursive;
+}
+
+#title{
+    font-size: 90px;
+    text-align: center;
+}
+
+#img-div{
+    /* border: 2px solid red; */
+    text-align: center;
+}
+
+#image{
+    width: 700px;
+    border-radius: 40px;
+    box-shadow:5px 5px 500px red ;
+}
+
+#info{
+    /* border: 2px solid red; */
+    width: 80%;
+    margin: 20px auto;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+
+#marvel{
+color: red;
+margin: auto;
+width: 80%;
+}
+
+ul{
+width: 80%;
+margin: auto;
+}
+
+li{
+    font-size: 24px;
+    line-height: 3rem;
+}
+
+#footer{
+    margin: 2rem;
+    padding: 2rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
+#link{
+    text-decoration: none;
+    color: white;
+    border: 2px solid darkorange;
+    border-radius: 10px;
+    background-color:black;
+}
+
+#link:hover{
+    background-color:rgb(68, 68, 123);
+    color: darkred;
 }
