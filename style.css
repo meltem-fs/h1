@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+
+.container{
+    border: 2px solid red;
+    width: 80%;
+    margin: auto;
+    background-color: rgb(73, 70, 70);
+    border-radius: 20px;
+}
